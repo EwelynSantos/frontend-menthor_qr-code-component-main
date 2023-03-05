@@ -42,13 +42,9 @@ img{
 }
 
 .text{
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  gap: 5px;
   text-align: center;
   margin: 0 30px 25px;
+  color: var(--Dark-blue);
  
 }
 
